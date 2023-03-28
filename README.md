@@ -1,2 +1,0 @@
-# khamsat-Clone
-test project
